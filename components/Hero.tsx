@@ -98,7 +98,7 @@ export default function Hero() {
             { icon: <Mail size={14} />, label: "dishank.srivastava3@gmail.com", href: "mailto:dishank.srivastava3@gmail.com" },
             { icon: <Phone size={14} />, label: "+91-9818653330", href: "tel:+919818653330" },
             { icon: <MapPin size={14} />, label: "Noida, India", href: "#contact" },
-            { icon: <Linkedin size={14} />, label: "LinkedIn", href: "https://linkedin.com/in/dishank-srivastava", target: "_blank" },
+            { icon: <Linkedin size={14} />, label: "LinkedIn", href: "https://www.linkedin.com/in/dishanks/", target: "_blank" },
           ].map((item) => (
             <a
               key={item.label}

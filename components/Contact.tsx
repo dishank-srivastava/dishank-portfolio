@@ -26,7 +26,7 @@ const contactItems = [
     icon: <Linkedin size={20} />,
     label: "LinkedIn",
     value: "Connect on LinkedIn",
-    href: "https://linkedin.com/in/dishank-srivastava",
+    href: "https://www.linkedin.com/in/dishanks/",
     target: "_blank",
   },
 ];
